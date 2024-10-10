@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://bkf0qxvuygkrp"]
+
+[ext_resource type="PackedScene" uid="uid://c8nexgvitgmc4" path="res://models/Board.glb" id="1_8j2is"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_y35bd"]
+size = Vector3(1.1, 0.02, 0.5)
+
+[node name="Box" type="Node3D"]
+
+[node name="RigidBody3D" type="RigidBody3D" parent="."]
+
+[node name="Board" parent="RigidBody3D" instance=ExtResource("1_8j2is")]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="RigidBody3D"]
+shape = SubResource("BoxShape3D_y35bd")

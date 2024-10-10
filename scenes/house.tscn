@@ -1,0 +1,25 @@
+[gd_scene load_steps=4 format=3 uid="uid://bhmma80v3svv5"]
+
+[ext_resource type="PackedScene" uid="uid://i2ruu72mdfc2" path="res://assets/models/house.dae" id="1_gqwp8"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_roj77"]
+size = Vector3(0.2, 0.75, 20)
+
+[sub_resource type="BoxMesh" id="BoxMesh_btsxi"]
+size = Vector3(0.2, 0.75, 20)
+
+[node name="House" type="Node3D"]
+
+[node name="house" parent="." instance=ExtResource("1_gqwp8")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 12.736, -0.070575, 0.986)
+
+[node name="RigidBody3D" type="RigidBody3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 9.27668, 0.375, 0)
+freeze = true
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="RigidBody3D"]
+shape = SubResource("BoxShape3D_roj77")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="RigidBody3D"]
+visible = false
+mesh = SubResource("BoxMesh_btsxi")

@@ -1,0 +1,5 @@
+res://scenes/World.tscn
+res://scenes/Environment.tres
+res://scenes/Camera3D_projection_flip.gd
+res://curvature.gdshader
+res://scenes/Camera3D_curvature.gd

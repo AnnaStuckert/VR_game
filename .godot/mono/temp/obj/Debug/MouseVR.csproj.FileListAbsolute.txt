@@ -1,0 +1,197 @@
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\MouseVR.deps.json
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\MouseVR.runtimeconfig.json
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\MouseVR.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\MouseVR.pdb
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\AsyncIO.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\Microsoft.Win32.SystemEvents.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\NaCl.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\NetMQ.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Drawing.Common.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Private.ServiceModel.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Security.Permissions.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.ServiceModel.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Windows.Extensions.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\cs\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\de\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\es\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\fr\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\it\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\ja\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\ko\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\pl\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\ru\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\tr\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\bin\Debug\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.csproj.AssemblyReference.cache
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.AssemblyInfoInputs.cache
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.AssemblyInfo.cs
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.csproj.CoreCompileInputs.cache
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.csproj.CopyComplete
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\obj\Debug\refint\MouseVR.dll
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.pdb
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.genruntimeconfig.cache
+C:\Users\avs20\Documents\mousevr-main\Game\.godot\mono\temp\obj\Debug\ref\MouseVR.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\MouseVR.deps.json
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\MouseVR.runtimeconfig.json
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\MouseVR.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\MouseVR.pdb
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\AsyncIO.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\Microsoft.Win32.SystemEvents.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\NaCl.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\NetMQ.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Drawing.Common.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Private.ServiceModel.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Security.Permissions.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.ServiceModel.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Windows.Extensions.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\cs\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\de\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\es\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\fr\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\it\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\ja\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\ko\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\pl\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\ru\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\tr\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.csproj.AssemblyReference.cache
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.AssemblyInfoInputs.cache
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.AssemblyInfo.cs
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.csproj.CoreCompileInputs.cache
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.csproj.CopyComplete
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\refint\MouseVR.dll
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.pdb
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.genruntimeconfig.cache
+C:\Users\avs20\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\ref\MouseVR.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\MouseVR.deps.json
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\MouseVR.runtimeconfig.json
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\MouseVR.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\MouseVR.pdb
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\AsyncIO.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\Microsoft.Win32.SystemEvents.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\NaCl.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\NetMQ.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Drawing.Common.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Private.ServiceModel.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Security.Permissions.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.ServiceModel.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\System.Windows.Extensions.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\cs\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\de\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\es\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\fr\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\it\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\ja\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\ko\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\pl\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\ru\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\tr\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\bin\Debug\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.csproj.AssemblyReference.cache
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.AssemblyInfoInputs.cache
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.AssemblyInfo.cs
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.csproj.CoreCompileInputs.cache
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.csproj.CopyComplete
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\refint\MouseVR.dll
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.pdb
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\MouseVR.genruntimeconfig.cache
+C:\Users\avs20\OneDrive - University of St Andrews\Documents\Bonsai and Godot from borrowed PC\mousevr-main\Game\.godot\mono\temp\obj\Debug\ref\MouseVR.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\MouseVR.deps.json
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\MouseVR.runtimeconfig.json
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\MouseVR.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\MouseVR.pdb
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\AsyncIO.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\Microsoft.Win32.SystemEvents.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\NaCl.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\NetMQ.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\System.Drawing.Common.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\System.Private.ServiceModel.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\System.Security.Permissions.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\System.ServiceModel.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\System.Windows.Extensions.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\cs\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\de\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\es\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\fr\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\it\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\ja\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\ko\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\pl\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\ru\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\tr\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\bin\Debug\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\obj\Debug\MouseVR.csproj.AssemblyReference.cache
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\obj\Debug\MouseVR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\obj\Debug\MouseVR.AssemblyInfoInputs.cache
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\obj\Debug\MouseVR.AssemblyInfo.cs
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\obj\Debug\MouseVR.csproj.CoreCompileInputs.cache
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\obj\Debug\MouseVR.sourcelink.json
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\obj\Debug\MouseVR.csproj.CopyComplete
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\obj\Debug\MouseVR.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\obj\Debug\refint\MouseVR.dll
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\obj\Debug\MouseVR.pdb
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\obj\Debug\MouseVR.genruntimeconfig.cache
+C:\Users\avs20\Documents\MouseVR\Game\.godot\mono\temp\obj\Debug\ref\MouseVR.dll

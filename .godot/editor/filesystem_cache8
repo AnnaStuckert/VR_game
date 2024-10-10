@@ -1,0 +1,74 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1728550217
+controls.gd::GDScript::-1::1725534206::0::1::::Player<>CharacterBody3D<>::
+export_presets.cfg::TextFile::-1::1709816392::0::1::::<><>::
+icon.svg::CompressedTexture2D::5012062695489133368::1702213428::1702213476::1::::<><>::
+::res://assets/::1728549981
+::res://assets/models/::1728549981
+Albedo.png::CompressedTexture2D::4789705377058485317::1702213428::1702213476::1::::<><>::
+bin.dae::PackedScene::8636231611660083662::1702213428::1702213480::1::::<><>::
+Brick_BaseColor.png::CompressedTexture2D::2086539898634192570::1702213428::1702213476::1::::<><>::
+car.dae::PackedScene::9067958759558920394::1702213428::1702213480::1::::<><>::
+Door base color.png::CompressedTexture2D::5829646499966212306::1702213428::1702213476::1::::<><>::
+door.dae::PackedScene::6198633287433887556::1702213430::1702213478::1::::<><>::
+house.dae::PackedScene::618317954362661291::1702213430::1702213478::1::::<><>::
+Stairs_BaseColor.png::CompressedTexture2D::5554640145787920646::1702213428::1702213476::1::::<><>::
+UV Grid.png::CompressedTexture2D::5187982203534134338::1702213428::1702213476::1::::<><>::
+Wall_BaseColor.png::CompressedTexture2D::7568803171014863240::1702213428::1702213476::1::::<><>::
+::res://assets/models/images/::1728549981
+Door base color.png::CompressedTexture2D::5239595381902751584::1702213430::1702213476::1::::<><>::
+Door normal map.png::CompressedTexture2D::2690268354992080117::1702213430::1702213476::1::::<><>::
+::res://assets/textures/::1728549981
+grid.png::CompressedTexture2D::7234472312306095620::1702213430::1702213476::1::::<><>::
+::res://data_VR_windows_x86_64/::1728549982
+MouseVR.deps.json::JSON::-1::1709816347::0::1::::<><>::
+MouseVR.runtimeconfig.json::JSON::-1::1709816347::0::1::::<><>::
+::res://models/::1728549982
+Board.glb::PackedScene::7116194407445043505::1702213430::1702213480::1::::<><>::
+Board_Board_BaseColor.png::CompressedTexture2D::5007631716668640037::1702213430::1702213476::1::::<><>::
+Board_Board_Board_BaseColor.png::CompressedTexture2D::4976239374857412923::1702213430::1702213476::1::::<><>::
+Board_Board_Board_Normal.png::CompressedTexture2D::8630975125096759157::1702213430::1702213476::1::::<><>::
+Board_Board_Board_Roughness.png::CompressedTexture2D::3352328080758017172::1702213430::1702213476::1::::<><>::
+Board_Board_Normal.png::CompressedTexture2D::2459436950913357877::1702213430::1702213476::1::::<><>::
+Board_Board_Roughness.png::CompressedTexture2D::5373908221764511637::1702213430::1702213476::1::::<><>::
+Box textured.glb::PackedScene::2668246052130223562::1702213430::1702213480::1::::<><>::
+Box textured_DefaultMaterial_BaseColor.png::CompressedTexture2D::1108286852915489603::1702213430::1702213476::1::::<><>::
+Box textured_DefaultMaterial_Normal.png::CompressedTexture2D::5428985787168139966::1702213430::1702213476::1::::<><>::
+Box textured_DefaultMaterial_Roughness.png::CompressedTexture2D::748145546333678952::1702213430::1702213476::1::::<><>::
+Box.glb::PackedScene::6363506349454960094::1702213430::1702213478::1::::<><>::
+Box_DefaultMaterial_BaseColor.png::CompressedTexture2D::7436384797735110741::1702213430::1702213476::1::::<><>::
+Box_DefaultMaterial_Normal.png::CompressedTexture2D::716831252220699104::1702213430::1702213476::1::::<><>::
+Box_DefaultMaterial_Roughness.png::CompressedTexture2D::7943782009642480320::1702213430::1702213476::1::::<><>::
+Circles.glb::PackedScene::2132219397210336557::1702213430::1702213480::1::::<><>::
+Circles_Circles.png::CompressedTexture2D::3867369860082542432::1702213430::1702213476::1::::<><>::
+Diagonal lines.glb::PackedScene::8168623617756376759::1702213430::1702213480::1::::<><>::
+Diagonal lines_Diagonal lines.png::CompressedTexture2D::1457764749401438793::1702213430::1702213476::1::::<><>::
+Horizontal lines.glb::PackedScene::8688480137426454365::1702213430::1702213480::1::::<><>::
+Horizontal lines_Horizontal lines.png::CompressedTexture2D::5086752120157622748::1702213430::1702213476::1::::<><>::
+Vertical lines2_Vertical lines.png::CompressedTexture2D::3841434668413555::1702213430::1702213476::1::::<><>::
+Vertical lines.glb::PackedScene::6263216270362589917::1702213430::1702213482::1::::<><>::
+Vertical lines_Vertical lines.png::CompressedTexture2D::9160605151417512128::1702213430::1702213476::1::::<><>::
+::res://scenes/::1728549983
+Area3D.gd::GDScript::-1::1702213430::0::1::::<>Area3D<>::
+Area3D_Circles.gd::GDScript::-1::1710965200::0::1::::<>Area3D<>::
+Area3D_Diagonal.gd::GDScript::-1::1710966069::0::1::::<>Area3D<>::
+Area3D_Vertical.gd::GDScript::-1::1710966202::0::1::::<>Area3D<>::
+Board.tscn::PackedScene::3100178747784338281::1702213430::0::1::::<><>::uid://c8nexgvitgmc4::::res://models/Board.glb
+BonsaiNode2.cs::CSharpScript::-1::1702230290::0::1::::<>Node3D<>::
+BonsaiNode_bump.cs::CSharpScript::-1::1702570836::0::1::::<><>::
+Camera3D_curvature.gd::GDScript::-1::1728478911::0::1::::<>Camera3D<>::
+Camera3D_projection_flip.gd::GDScript::-1::1728475669::0::1::::<>Camera3D<>::
+Environment.tres::Environment::1157748629923043445::1728474378::0::1::::<><>::
+Game.gd::GDScript::-1::1711061399::0::1::::Game<>Node3D<>::
+house.tscn::PackedScene::2903245499004201580::1702213430::0::1::::<><>::uid://i2ruu72mdfc2::::res://assets/models/house.dae
+MasterCircle.cs::CSharpScript::-1::1703850274::0::1::::<>Node3D<>::
+MasterCircle.gd::GDScript::-1::1704200533::0::1::::<>Node3D<>::
+MasterDiagonal.gd::GDScript::-1::1704200369::0::1::::<>Node3D<>::
+MasterVertical.gd::GDScript::-1::1704200533::0::1::::<>Node3D<>::
+Obstacle.tscn::PackedScene::3831234891945170304::1702213430::0::1::::<><>::uid://cwwsaw7n1ce83::::res://models/Box.glb
+Sound.gd::GDScript::-1::1702213430::0::1::::<>RigidBody3D<>::
+UI.gd::GDScript::-1::1702213430::0::1::::UI<>Control<>::
+UI.tscn::PackedScene::8115329696176188121::1702213430::0::1::::<><>::res://scenes/UI.gd
+World.tscn::PackedScene::2852491839588531091::1728482102::0::1::::<><>::res://scenes/Game.gd<>res://controls.gd<>uid://dbcox4r7v7l7i::::res://assets/textures/grid.png<>uid://bhmma80v3svv5::::res://scenes/house.tscn<>uid://qq27ldxcyte8::::res://scenes/Environment.tres<>uid://but445bck7nue::::res://scenes/Obstacle.tscn<>uid://bkf0qxvuygkrp::::res://scenes/Board.tscn<>uid://dnvekamlox8kj::::res://scenes/UI.tscn<>res://scripts/Bonsai.cs<>uid://cvh7iy8odl638::::res://models/Vertical lines.glb<>res://scenes/Area3D_Vertical.gd<>uid://dom7bjnhrcpyl::::res://models/Diagonal lines.glb<>res://scenes/Area3D_Diagonal.gd<>res://scenes/MasterDiagonal.gd<>uid://5m4lvkbkg47j::::res://models/Circles.glb<>res://scenes/MasterCircle.gd<>res://scenes/Area3D_Circles.gd<>res://scenes/MasterVertical.gd
+::res://scripts/::1728549983
+Bonsai.cs::CSharpScript::-1::1711063429::0::1::::<>Node<>::
